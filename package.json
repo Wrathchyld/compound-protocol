@@ -30,7 +30,7 @@
     "solparse": "^2.2.8"
   },
   "dependencies": {
-    "@solidity-parser/parser": "^0.13.2",
+    "@solidity-parser/parser": "^0.16.0",
     "eth-saddle": "^0.1.25",
     "@snyk/protect": "latest"
   },
