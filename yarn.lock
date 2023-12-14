@@ -1173,22 +1173,22 @@
   resolved "https://registry.yarnpkg.com/@sindresorhus/is/-/is-0.14.0.tgz#9fb3a3cf3132328151f353de4632e01e52102bea"
   integrity sha512-9NET910DNaIPngYnLLPeg+Ogzqsi9uM4mSboU5y6p8S5DzMTVEsJZrawi+BoDNUVBa2DhJqQYUFvMDfgU062LQ==
 
-"@snyk/protect@^1.1167.0":
-  version "1.1167.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1167.0.tgz#825bd97dba6a684f17345e727988a737668e9f73"
-  integrity sha512-KO0bzR1LDz5brLu549I+3FjVAqmR5UXpmjAjImaHm4yfG3cZ6gapxi+1hErHhZcCvzw7pwvpfGEOpiFIg2UYbQ==
-
-"@solidity-parser/parser@^0.13.2":
-  version "0.13.2"
-  resolved "https://registry.yarnpkg.com/@solidity-parser/parser/-/parser-0.13.2.tgz#b6c71d8ca0b382d90a7bbed241f9bc110af65cbe"
-  integrity sha512-RwHnpRnfrnD2MSPveYoPh8nhofEvX7fgjHk1Oq+NNvCcLx4r1js91CO9o+F/F3fBzOCyvm8kKRTriFICX/odWw==
-  dependencies:
-    antlr4ts "^0.5.0-alpha.4"
+"@snyk/protect@latest":
+  version "1.1264.0"
+  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.1264.0.tgz#ea10ac74dbd13a857794291cd64c2c61a71f28e7"
+  integrity sha512-RH8RUxzYi+ZrcOV/mLbIzPRCk+1jrskuiV/ld2Sk+EPJEn8+kdqUvYvm22imWiTH3+8EgOxO4sgN+dpy99pMyQ==
 
 "@solidity-parser/parser@^0.14.1":
   version "0.14.1"
   resolved "https://registry.yarnpkg.com/@solidity-parser/parser/-/parser-0.14.1.tgz#179afb29f4e295a77cc141151f26b3848abc3c46"
   integrity sha512-eLjj2L6AuQjBB6s/ibwCAc0DwrR5Ge+ys+wgWo+bviU7fV2nTMQhU63CGaDKXg9iTmMxwhkyoggdIR7ZGRfMgw==
+  dependencies:
+    antlr4ts "^0.5.0-alpha.4"
+
+"@solidity-parser/parser@^0.16.2":
+  version "0.16.2"
+  resolved "https://registry.yarnpkg.com/@solidity-parser/parser/-/parser-0.16.2.tgz#42cb1e3d88b3e8029b0c9befff00b634cd92d2fa"
+  integrity sha512-PI9NfoA3P8XK2VBkK5oIfRgKDsicwDZfkVq9ZTBCQYGOP1N2owgY2dyLGyU5/J/hQs8KRk55kdmvTLjy3Mu3vg==
   dependencies:
     antlr4ts "^0.5.0-alpha.4"
 
